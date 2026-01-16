@@ -1,0 +1,49 @@
+{
+  "name": "website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed": "node scripts/seed-products.js",
+    "seed:products": "node scripts/seed-products.js",
+    "seed:deals": "node scripts/seed-deals.js",
+    "seed:all": "npm run seed:products && npm run seed:deals"
+  },
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.10",
+    "@react-google-maps/api": "^2.20.7",
+    "@types/google.maps": "^3.58.1",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.7.0",
+    "date-fns": "^4.1.0",
+    "dotenv": "^17.2.3",
+    "framer-motion": "^12.23.12",
+    "jose": "^5.2.3",
+    "js-cookie": "^3.0.5",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.544.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.17.1",
+    "multer": "^2.0.2",
+    "next": "^15.5.2",
+    "nodemailer": "^7.0.5",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-hot-toast": "^2.6.0",
+    "react-leaflet": "^5.0.0",
+    "react-lottie-player": "^2.1.0",
+    "react-toastify": "^11.0.5",
+    "script": "^0.1.4",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.5",
+    "tailwindcss": "^4"
+  }
+}
