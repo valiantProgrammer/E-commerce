@@ -34,44 +34,26 @@ A full-stack ecommerce application built with modern web technologies, featuring
 - **User Profiles**: Manage user account information and preferences
 - **Image Upload**: Product and user image uploads via Cloudinary
 - **Responsive Design**: Fully responsive UI optimized for all devices
-<!-- ## 📸 Screenshots
 
-### Home Page
-The home page features a hero section with featured products, deals, and category navigation.
+## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
+### Application Overview
 
-### Product Listing & Filtering
-Browse products with advanced filtering options including price range, categories, and ratings.
+![Screenshot 1](./screenshots/screenshot-1.png)
 
-![Products Page](./screenshots/products.png)
+![Screenshot 2](./screenshots/screenshot-2.png)
 
-### Product Details
-Detailed product information with images, descriptions, pricing, and add to cart functionality.
+![Screenshot 3](./screenshots/screenshot-3.png)
 
-![Product Details](./screenshots/product-details.png)
+![Screenshot 4](./screenshots/screenshot-4.png)
 
-### Shopping Cart
-Manage your cart items with quantity adjustments and proceed to checkout.
+![Screenshot 5](./screenshots/screenshot-5.png)
 
-![Shopping Cart](./screenshots/cart.png)
+![Screenshot 6](./screenshots/screenshot-6.png)
 
-### Checkout & Order
-Complete your purchase with address management and order confirmation.
+![Screenshot 7](./screenshots/screenshot-7.png)
 
-![Checkout](./screenshots/checkout.png)
-
-### User Authentication
-Secure signup and signin with OTP verification.
-
-![Authentication](./screenshots/auth.png)
-
-### User Profile & Orders
-View your profile, manage addresses, and track order history.
-
-![Profile & Orders](./screenshots/profile.png)
-
-> 📝 **Note**: Screenshots folder is located in `/screenshots` directory. Add your website screenshots there to display them in this README. -->
+![Screenshot 8](./screenshots/screenshot-8.png)
 
 ## 🛠️ Tech Stack
 
