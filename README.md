@@ -9,7 +9,7 @@ A full-stack ecommerce application built with modern web technologies, featuring
 **Database Availability Issue**: This application uses MongoDB Atlas on a **free tier instance**. The cluster may be automatically shut down due to inactivity periods. If you experience any of the following issues:
 
 - Pages fail to load or load indefinitely
-- Signup/Sign in buttons don't work
+- Signup/Sign in buttons don"t work
 - "500 Internal Server Error" messages
 - Product listings not appearing
 - Cart or order operations failing

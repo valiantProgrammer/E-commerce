@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: "18"
       - run: npm install
       - run: npm run lint
 
@@ -28,6 +28,6 @@ jobs:
   deploy:
     needs: [lint, build]
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == "refs/heads/main"
     steps:
       - run: npm run deploy
